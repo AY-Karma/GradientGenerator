@@ -11,6 +11,5 @@ Features:
 
 
 PREVIEWS :
-![image](https://github.com/AY-Karma/GradientGenerator/assets/100616685/67c4eeab-0f12-4049-9df2-818ad7abc067)
-![image](https://github.com/AY-Karma/GradientGenerator/assets/100616685/1e9b6820-13d3-420a-b65b-667c07569a36)
-
+![Screenshot 2023-07-30 015455](https://github.com/AY-Karma/GradientGenerator/assets/100616685/d8b6c498-99cd-4690-82a5-8c3d297cff90)
+![Screenshot 2023-07-30 015612](https://github.com/AY-Karma/GradientGenerator/assets/100616685/129778de-af1f-4bae-b577-751c1db0b9bf)
